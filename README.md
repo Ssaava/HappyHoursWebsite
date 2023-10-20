@@ -1,2 +1,3 @@
 # HappyHoursWebsite
+
 School Website
